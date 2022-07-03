@@ -1,1 +1,1 @@
-## Link to the project - tindogwebsite12.netlify.app
+##Link to the website - https://tindogwebsite12.netlify.app/

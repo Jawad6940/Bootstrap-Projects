@@ -1,5 +1,5 @@
 # [BootStrap UI](https://bootstrap-ui-landig.netlify.app/)
-### A responsive Bootstrap-ui website made exclusively for Bootrap templates.
+### A responsive Bootstrap-ui website made exclusively for Bootstrap templates.
 ## About
 A landing page for Get premium Bootstrap Templates. Bootstrap-ui allows the user to acess Free Bootstrap themes that are ready to customize and publish. 
 ## Built With

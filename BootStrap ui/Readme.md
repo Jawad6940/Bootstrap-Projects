@@ -1,1 +1,1 @@
-## [Live](https://bootstrap-ui-landig.netlify.app/)
+## [BootStrap UI](https://bootstrap-ui-landig.netlify.app/)

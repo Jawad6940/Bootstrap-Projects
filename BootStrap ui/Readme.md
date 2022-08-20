@@ -16,3 +16,5 @@ A landing page for Get premium Bootstrap Templates. Bootstrap-ui allows the user
 - Formatted Content That Is Easy to Scan
 - Fast Load Times
 - Contrasting Colour Scheme
+
+![gif](https://user-images.githubusercontent.com/96516021/185742578-9064b536-dd47-4497-99be-b6918f2a1d9f.gif)
